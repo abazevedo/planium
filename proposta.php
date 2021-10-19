@@ -63,7 +63,6 @@
 			}			
 		}
 	}
-	//var_dump($planosPorVidas);
 	
 	//verificar planos elegíveis pelo número de vidas
 	foreach($planosPorVidas as $key => $plano){
